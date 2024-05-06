@@ -1,0 +1,6 @@
+@GigichTask_MySolution__HostAddress = http://localhost:5079
+
+GET {{GigichTask_MySolution__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
