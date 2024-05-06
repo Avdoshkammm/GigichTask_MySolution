@@ -1,4 +1,4 @@
-using GigichTask_MySolution_.Models;
+using GigichTask_MySolution_.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
